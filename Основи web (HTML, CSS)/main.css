@@ -1,0 +1,13 @@
+body {
+			background-image: url('https://elements-cover-images-0.imgix.net/924b2743-e079-45c8-aea6-7d6315201467?auto=compress%2Cformat&fit=max&w=900&s=f72fd29791dbf3665c813e78158ab720');
+		}
+
+h1 {
+	color: violet; text-align: center; text-decoration: underline; font-family: cursive;
+}
+h2 {
+	color: hotpink;text-align: center; font-family: cursive;
+}
+h3 {
+	color: hotpink; text-align: center;
+}
